@@ -65,4 +65,11 @@
 <a href="http://www.github.com/ishreyasp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishreyasp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-![snake gif](https://github.com/ishreyasp/ishreyasp/blob/output/github-contribution-grid-snake.svg)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishreyasp/ishreyasp/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" src = " https://raw.githubusercontent.com/ishreyasp/ishreyasp/output/github-contribution-grid-snake.svg " />
+</picture>
+
